@@ -5,4 +5,4 @@ Trabalho feito pelos estudantes:
 - Gabriel Beltrão Laus.
 - Rafael da Cunha.
 
-Professor
+Professor: Michael Douglas Cabral Alves
